@@ -48,7 +48,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=nyimyozin&color=green)
+![](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
 
 ###
 
