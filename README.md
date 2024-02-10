@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nyi Myo Zin.</p>
+<p align="left">I'm Nyi Myo Zin. You can call me Nick!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I love coding and learning about new technologies.<br>📚 I'm currently learning React, and preparing for OCA exam.<br>📫 Reach me at nyimyozin04@gmail.com.</p>
+<p align="left">✨ I love coding and learning about new technologies.<br>📚 I'm currently learning React, and preparing for OCA exam.<br>📫 Reach me at nyimyozin04@gmail.com.<br>🖥️ I like to play games and watch anime in my free time.</p>
 
 ###
 
