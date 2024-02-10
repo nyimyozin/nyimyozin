@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00D4D4,100:7234D3&text=Hey!%20I'm%20Nyi%20Myo%20Zin&reversal=false&fontColor=bababa&textBg=false&animation=fadeIn)
 
 ###
 
-<p align="left">I'm Nyi Myo Zin. You can call me Nick!</p>
+<h1 align="left">What's up! You can call me Nick!</h1>
 
 ###
 
