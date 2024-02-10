@@ -61,10 +61,6 @@
 
 ###
 
-<p align="left">Definitely not me creating bugs.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/nyimyozin/nyimyozin/output/snake.svg" alt="Snake animation" />
+<p align="center">Definitely not me creating bugs.</p>
 
 ###
