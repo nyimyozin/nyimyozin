@@ -22,7 +22,6 @@ I love coding, learning new technologies, and figuring out how things work.
 When I'm away from the keyboard, you'll probably find me playing games or watching anime.
 
 💬 **日本語でもどうぞ。エラーメッセージよりは話が通じます。**  
-I speak Japanese too. Easier to talk to than a stack trace.
 
 ```text
 PLAYER   Nick
