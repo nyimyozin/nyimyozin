@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Nick! · やっほー！
+# 👋 Hey, I'm Nick!
+
+**どうも、バグの第一発見者です。**
 
 **Nyi Myo Zin · Code explorer · Gamer · Anime enjoyer**
 
@@ -19,8 +21,8 @@
 I love coding, learning new technologies, and figuring out how things work.
 When I'm away from the keyboard, you'll probably find me playing games or watching anime.
 
-💬 **日本語もいけるよ！気軽に話しかけてね〜**  
-I speak Japanese too - feel free to say hello in Japanese!
+💬 **日本語でもどうぞ。エラーメッセージよりは話が通じます。**  
+I speak Japanese too. Easier to talk to than a stack trace.
 
 ```text
 PLAYER   Nick
@@ -77,10 +79,10 @@ Tools and technologies I code with:
 ### A wild bug appeared!
 
 ```text
-> Try the obvious fix.
-  It works!
-> Wonder why it works.
-  A new quest has been unlocked.
+> 動かない。なぜだ。
+  It doesn't work. Why?
+> 動いた。なぜだ。
+  It works. Why?
 ```
 
 <div align="center">
@@ -97,7 +99,7 @@ Tools and technologies I code with:
 
 **Thanks for stopping by. May your builds be green and your bugs reproducible.** ✨
 
-遊びに来てくれてありがと〜！またね 👋 · See you around!
+現場からは以上です。 🎤
 
 ![Profile views](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
 
