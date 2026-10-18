@@ -8,7 +8,7 @@
 
 **Nyi Myo Zin · Code explorer · Gamer · Anime enjoyer**
 
-*Welcome to my little save point on the internet.*
+*Welcome to my save point on the internet :3*
 
 [📬 Say hello](mailto:nyimyozin04@gmail.com) · [🛠️ Explore my repos](https://github.com/nyimyozin?tab=repositories)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎮 Player profile
+## Profile
 
 I love coding, learning new technologies, and figuring out how things work.
 When I'm away from the keyboard, you'll probably find me playing games or watching anime.
@@ -33,8 +33,8 @@ LOOT     One more thing I didn't know yesterday
 
 ## 🗺️ Current quests
 
-- ⚛️ **Explore React** - learning how to bring interfaces to life.
-- 🐛 **Side quest:** fix a bug without unlocking three more.
+- **Explore React** - learning how to bring interfaces to life.
+- **Side quest:** fix a bug without unlocking three more.
 
 ## 🎒 Skill inventory
 
@@ -79,21 +79,10 @@ Tools and technologies I code with:
 ### A wild bug appeared!
 
 ```text
-> 動かない。なぜだ。
-  It doesn't work. Why?
-> 動いた。なぜだ。
-  It works. Why?
+> 動かない。なぜだろ。
+
+> 動いた。なぜだろ。
 ```
-
-<div align="center">
-  <img height="200" alt="A playful coding reaction" src="https://miro.medium.com/v2/resize:fit:1080/1*rv7bzPRCHMsOv1vI_gHyfg.gif"  />
-</div>
-
-<p align="center"><em>Definitely not me creating bugs.</em></p>
-
-</details>
-
----
 
 <div align="center">
 
