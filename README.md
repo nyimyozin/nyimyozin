@@ -1,22 +1,40 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00D4D4,100:7234D3&text=Hey!%20I'm%20Nyi%20Myo%20Zin&reversal=false&fontColor=bababa&textBg=false&animation=fadeIn)
+![Banner: Hey! I'm Nyi Myo Zin](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00D4D4,100:7234D3&text=Hey!%20I'm%20Nyi%20Myo%20Zin&reversal=false&fontColor=bababa&textBg=false&animation=fadeIn)
 
-###
+<div align="center">
 
-<h1 align="left">What's up! You can call me Nick!</h1>
+# 👋 Hey, I'm Nick!
 
-###
+**Nyi Myo Zin · Code explorer · Gamer · Anime enjoyer**
 
-<h2 align="left">About me</h2>
+*Welcome to my little save point on the internet.*
 
-###
+[📬 Say hello](mailto:nyimyozin04@gmail.com) · [🛠️ Explore my repos](https://github.com/nyimyozin?tab=repositories)
 
-<p align="left">✨ I love coding and learning about new technologies.<br>📚 I'm currently learning React, and preparing for OCA exam.<br>📫 Reach me at nyimyozin04@gmail.com.<br>🖥️ I like to play games and watch anime in my free time.</p>
+</div>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🎮 Player profile
 
-###
+I love coding, learning new technologies, and figuring out how things work.
+When I'm away from the keyboard, you'll probably find me playing games or watching anime.
+
+```text
+PLAYER   Nick
+CLASS    Curious developer
+QUEST    Learn → build → debug → repeat
+LOOT     One more thing I didn't know yesterday
+```
+
+## 🗺️ Current quests
+
+- ⚛️ **Explore React** — learning how to bring interfaces to life.
+- ☕ **Prepare for the OCA exam** — leveling up my Java knowledge.
+- 🐛 **Side quest:** fix a bug without unlocking three more.
+
+## 🎒 Skill inventory
+
+Tools and technologies I code with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -44,25 +62,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-![](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
-
-###
+## 📊 Adventure log
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyimyozin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyimyozin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<details>
+<summary>🎲 Open for a random encounter</summary>
+
+### A wild bug appeared!
+
+```text
+> Try the obvious fix.
+  It works!
+> Wonder why it works.
+  A new quest has been unlocked.
+```
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1080/1*rv7bzPRCHMsOv1vI_gHyfg.gif"  />
+  <img height="200" alt="A playful coding reaction" src="https://miro.medium.com/v2/resize:fit:1080/1*rv7bzPRCHMsOv1vI_gHyfg.gif"  />
 </div>
 
-###
+<p align="center"><em>Definitely not me creating bugs.</em></p>
 
-<p align="center">Definitely not me creating bugs.</p>
+</details>
 
-###
+---
+
+<div align="center">
+
+**Thanks for stopping by. May your builds be green and your bugs reproducible.** ✨
+
+![Profile views](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
+
+</div>
