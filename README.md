@@ -31,7 +31,7 @@ QUEST    Learn → build → debug → repeat
 LOOT     One more thing I didn't know yesterday
 ```
 
-## 🗺️ Current quests · 冒険中
+## 🗺️ Current quests
 
 - ⚛️ **Explore React** - learning how to bring interfaces to life.
 - 🐛 **Side quest:** fix a bug without unlocking three more.
