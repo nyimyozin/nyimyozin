@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Nick! · こんにちは！
+# 👋 Hey, I'm Nick! · やっほー！
 
 **Nyi Myo Zin · Code explorer · Gamer · Anime enjoyer**
 
@@ -19,7 +19,7 @@
 I love coding, learning new technologies, and figuring out how things work.
 When I'm away from the keyboard, you'll probably find me playing games or watching anime.
 
-💬 **日本語も話せます！日本語でも気軽に話しかけてください。**  
+💬 **日本語もいけるよ！気軽に話しかけてね〜**  
 I speak Japanese too — feel free to say hello in Japanese!
 
 ```text
@@ -97,7 +97,7 @@ Tools and technologies I code with:
 
 **Thanks for stopping by. May your builds be green and your bugs reproducible.** ✨
 
-またね！ · See you around!
+遊びに来てくれてありがと〜！またね 👋 · See you around!
 
 ![Profile views](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
 
