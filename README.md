@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Nick!
+# 👋 Hey, I'm Nick! · こんにちは！
 
 **Nyi Myo Zin · Code explorer · Gamer · Anime enjoyer**
 
@@ -19,6 +19,9 @@
 I love coding, learning new technologies, and figuring out how things work.
 When I'm away from the keyboard, you'll probably find me playing games or watching anime.
 
+💬 **日本語も話せます！日本語でも気軽に話しかけてください。**  
+I speak Japanese too — feel free to say hello in Japanese!
+
 ```text
 PLAYER   Nick
 CLASS    Curious developer
@@ -26,10 +29,9 @@ QUEST    Learn → build → debug → repeat
 LOOT     One more thing I didn't know yesterday
 ```
 
-## 🗺️ Current quests
+## 🗺️ Current quests · 冒険中
 
 - ⚛️ **Explore React** — learning how to bring interfaces to life.
-- ☕ **Prepare for the OCA exam** — leveling up my Java knowledge.
 - 🐛 **Side quest:** fix a bug without unlocking three more.
 
 ## 🎒 Skill inventory
@@ -94,6 +96,8 @@ Tools and technologies I code with:
 <div align="center">
 
 **Thanks for stopping by. May your builds be green and your bugs reproducible.** ✨
+
+またね！ · See you around!
 
 ![Profile views](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
 
