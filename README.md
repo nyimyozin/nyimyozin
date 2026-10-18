@@ -20,7 +20,7 @@ I love coding, learning new technologies, and figuring out how things work.
 When I'm away from the keyboard, you'll probably find me playing games or watching anime.
 
 💬 **日本語もいけるよ！気軽に話しかけてね〜**  
-I speak Japanese too — feel free to say hello in Japanese!
+I speak Japanese too - feel free to say hello in Japanese!
 
 ```text
 PLAYER   Nick
