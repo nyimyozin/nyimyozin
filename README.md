@@ -85,9 +85,7 @@ Tools and technologies I code with:
 
 <div align="center">
 
-**Thanks for stopping by. May your builds be green and your bugs reproducible.** ✨
-
-現場からは以上です。 🎤
+**Thanks for stopping by. May your builds be green and your bugs reproducible.**
 
 ![Profile views](https://komarev.com/ghpvc/?username=nyimyozin&color=blueviolet)
 
