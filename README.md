@@ -19,7 +19,7 @@
 ## Profile
 
 I love coding, learning new technologies, and figuring out how things work.
-When I'm away from the keyboard, you'll probably find me playing games or watching anime.
+When I'm not coding, you'll probably find me playing games or watching anime.
 
 💬 **日本語でもどうぞ。エラーメッセージよりは話が通じます。**  
 
@@ -71,17 +71,6 @@ Tools and technologies I code with:
   <img src="https://github-readme-stats.vercel.app/api?username=nyimyozin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyimyozin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-<details>
-<summary>🎲 Open for a random encounter</summary>
-
-### A wild bug appeared!
-
-```text
-> 動かない。なぜだろ。
-
-> 動いた。なぜだろ。
-```
 
 <div align="center">
 
